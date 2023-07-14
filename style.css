@@ -1,0 +1,52 @@
+body{
+    background:sandybrown;
+}
+#heading
+{
+    height:75px;
+    width:30%;
+    background: black;
+    color:white;
+    text-align: center;
+    padding-top: 5px;
+   margin:auto;
+    border-top-left-radius: 300px;
+    border-bottom-right-radius:300px ;
+    border:2px solid red,skyblue;
+    border-color: aqua,red,yellow,blue,green;
+}
+#heading1
+{
+    text-align: center;
+    padding-top: 2px;
+}
+form{
+      background:black;
+        color:white;
+        width:400px;
+      margin:auto;
+      margin-top:30px ;
+}
+label{
+    font-weight: bold;
+}
+#success
+{
+    background:violet;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+.body
+{
+    background:url(./bgform.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sh1
+{
+    color:white;
+    text-align: center;
+    padding-top: 5px;
+    text-shadow: 3px 3px 3px 3px grey;
+}
